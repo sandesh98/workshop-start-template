@@ -1,0 +1,11 @@
+html, body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background: linear-gradient(180deg, rgb(201, 150, 204) 0%, rgb(145, 107, 191) 100%);
+}
+
+.header-image {
+    width: 18rem;
+}
